@@ -1,4 +1,4 @@
-# wadfront
+# WAD2022-Lab12-Frontend
 
 ## Project setup
 ```
