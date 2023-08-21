@@ -1,4 +1,4 @@
-# WAD2022-Lab12-Frontend
+# WAD2023-Lab12-Frontend
 
 ## Project setup
 ```
